@@ -49,5 +49,8 @@
       }
     });
   }
+  const id_dup_check = () => {
+
+  }
 </script>
 </html>
